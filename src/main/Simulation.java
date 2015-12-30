@@ -24,6 +24,7 @@ import utils.Constants;
 
 /*
  * It is expected to launch more than one simulation at a time.
+ * 
  */
 public class Simulation {
 	Random r = new Random();
